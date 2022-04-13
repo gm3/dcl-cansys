@@ -1,13 +1,13 @@
 {
   "display": {
     "title": "Cansys",
-    "description": "Decentraland Project",
+    "description": "Decentraland P",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
   "owner": "",
   "contact": {
-    "name": "author-name",
+    "name": "irlbuilder#556c",
     "email": ""
   },
   "main": "bin/game.js",
