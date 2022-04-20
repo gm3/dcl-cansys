@@ -1,13 +1,13 @@
 {
   "display": {
-    "title": "Cansys",
-    "description": "Decentraland P",
+    "title": "Devconnect Amsterdam 2022",
+    "description": "A collaborative Ethereum week, built by and for everyone.",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
   "owner": "",
   "contact": {
-    "name": "irlbuilder#556c",
+    "name": "IRL-Art & Cansy",
     "email": ""
   },
   "main": "bin/game.js",
@@ -33,6 +33,6 @@
       }
     }
   ],
-  "requiredPermissions": [],
+  "requiredPermissions": ["ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"],
   "featureToggles": {}
 }

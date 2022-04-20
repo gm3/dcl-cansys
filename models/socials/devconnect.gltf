@@ -41,7 +41,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cylinder.009",
+            "name" : "Cylinder.011",
             "primitives" : [
                 {
                     "attributes" : {
@@ -76,58 +76,58 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 48,
+            "count" : 54,
             "max" : [
-                0.011822698637843132,
-                0.11466841399669647,
-                0.11466838419437408
+                0.015353689901530743,
+                0.11280306428670883,
+                0.1119806095957756
             ],
             "min" : [
-                -0.011822706088423729,
-                -0.1146683320403099,
-                -0.1146683618426323
+                -0.015353667549788952,
+                -0.10952525585889816,
+                -0.1119806095957756
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 48,
+            "count" : 54,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 48,
+            "count" : 54,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 84,
+            "count" : 144,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 576,
+            "byteLength" : 648,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 576,
-            "byteOffset" : 576
+            "byteLength" : 648,
+            "byteOffset" : 648
         },
         {
             "buffer" : 0,
-            "byteLength" : 384,
-            "byteOffset" : 1152
+            "byteLength" : 432,
+            "byteOffset" : 1296
         },
         {
             "buffer" : 0,
-            "byteLength" : 168,
-            "byteOffset" : 1536
+            "byteLength" : 288,
+            "byteOffset" : 1728
         }
     ],
     "samplers" : [
@@ -138,7 +138,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 1704,
+            "byteLength" : 2016,
             "uri" : "devconnect.bin"
         }
     ]
